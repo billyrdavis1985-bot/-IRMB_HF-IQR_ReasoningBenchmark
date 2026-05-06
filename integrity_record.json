@@ -1,0 +1,7 @@
+{
+  "timestamp": "2026-05-04T23:55:34Z",
+  "dataset_hash": "9b02ba527720b55e0552410375186c4e",
+  "prereg_hash": "3400153ee46e02df73b24ea4f2206fb7",
+  "results_hash": "76d3c6cc6d161583695f9d50f53f7ae785a9ed24bef24becdf573ca662723d4b",
+  "note": "Dataset hash matches pre-registration. Results hash proves scoring files were not modified after collection."
+}

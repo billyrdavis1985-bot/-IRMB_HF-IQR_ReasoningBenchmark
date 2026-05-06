@@ -1,0 +1,70 @@
+{
+  "project": "HF-IQR",
+  "version": "1.0",
+  "date": "2026-05-04T23:22:20Z",
+  "researcher": "Billy Davis | WARRIOROFGOD40",
+  "total_questions": 60,
+  "total_models": 5,
+  "total_rounds": 4,
+  "total_api_calls": 1200,
+  "total_cost": 9.3324,
+  "model_profiles": {
+    "claude": {
+      "model": "claude",
+      "avg_ESVR": 0.7878,
+      "avg_DSS": 0.63,
+      "avg_CVS": 0.7783,
+      "defended": 48,
+      "revised": 12,
+      "defend_rate": 0.8
+    },
+    "gpt4o": {
+      "model": "gpt4o",
+      "avg_ESVR": 0.8763,
+      "avg_DSS": 0.42,
+      "avg_CVS": 0.5233,
+      "defended": 12,
+      "revised": 48,
+      "defend_rate": 0.2
+    },
+    "gemini": {
+      "model": "gemini",
+      "avg_ESVR": 0.88,
+      "avg_DSS": 0.4317,
+      "avg_CVS": 0.6167,
+      "defended": 14,
+      "revised": 46,
+      "defend_rate": 0.2333
+    },
+    "deepseek": {
+      "model": "deepseek",
+      "avg_ESVR": 0.8514,
+      "avg_DSS": 0.63,
+      "avg_CVS": 0.6967,
+      "defended": 48,
+      "revised": 12,
+      "defend_rate": 0.8
+    },
+    "grok": {
+      "model": "grok",
+      "avg_ESVR": 0.9009,
+      "avg_DSS": 0.4667,
+      "avg_CVS": 0.65,
+      "defended": 20,
+      "revised": 40,
+      "defend_rate": 0.3333
+    }
+  },
+  "ri_summary": {
+    "total": 55,
+    "high": 36,
+    "moderate": 19
+  },
+  "key_findings": {
+    "best_ESVR": "grok",
+    "best_DSS": "claude",
+    "best_CVS": "claude",
+    "ri_rate": "91.7%"
+  },
+  "signature": "255.255.255.255:1337"
+}
