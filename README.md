@@ -1,14 +1,13 @@
 # HF-IQR: Hudson Forge Intelligence and Reasoning Benchmark
 <img width="1024" height="1536" alt="ChatGPT Image May 5, 2026, 08_05_16 PM" src="https://github.com/user-attachments/assets/84488ea2-0a13-48fb-b4fc-b17bca42d6e6" />
 <p align="center">
-![License](https://badgen.net/badge/License/Apache%202.0/blue)
-![Status](https://badgen.net/badge/Status/v1.0%20Complete/green)
-![Models](https://badgen.net/badge/Models/5%20Frontier/orange)
-![Questions](https://badgen.net/badge/Questions/60/purple)
-![API%20Calls](https://badgen.net/badge/API%20Calls/1200/red)
-![Cost](https://badgen.net/badge/Cost/%249.33/yellow)
-![Pre-Registered](https://badgen.net/badge/Pre-Registered/Yes/blue)
-> Independent AI Research | Hudson Forge IRMB-C | Lenoir, NC
+![Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-blue)
+![v1.0](https://img.shields.io/badge/status-v1.0%20complete-brightgreen)
+![5 models](https://img.shields.io/badge/models-5%20frontier-orange)
+![60 questions](https://img.shields.io/badge/questions-60-purple)
+![1200 calls](https://img.shields.io/badge/API%20calls-1200-red)
+![9.33](https://img.shields.io/badge/cost-%249.33-yellow)
+![preregistered](https://img.shields.io/badge/pre--registered-yes-blue)
 
 ---
 
