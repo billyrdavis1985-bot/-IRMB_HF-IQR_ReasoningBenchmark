@@ -1,14 +1,6 @@
 # HF-IQR: Hudson Forge Intelligence and Reasoning Benchmark
 <img width="1024" height="1536" alt="ChatGPT Image May 5, 2026, 08_05_16 PM" src="https://github.com/user-attachments/assets/84488ea2-0a13-48fb-b4fc-b17bca42d6e6" />
 <p align="center">
-  <img src="https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square" alt="License">
-  <img src="https://img.shields.io/badge/Status-v1.0_Complete-brightgreen?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Models-5_Frontier-orange?style=flat-square" alt="Models">
-  <img src="https://img.shields.io/badge/Questions-60-purple?style=flat-square" alt="Questions">
-  <img src="https://img.shields.io/badge/API_Calls-1200-red?style=flat-square" alt="API Calls">
-  <img src="https://img.shields.io/badge/Cost-%249.33-yellow?style=flat-square" alt="Cost">
-  <img src="https://img.shields.io/badge/Pre_Registered-Yes-blue?style=flat-square" alt="Pre-Registered">
-</p>
 
 > **Full Force Eternal — Romans 8:28**
 > Independent AI Research | Hudson Forge IRMB-C | Lenoir, NC
